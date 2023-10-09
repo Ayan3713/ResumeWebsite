@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{    
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    margin: 30px;
+}
+#navbar{
+    background-color: #4646d7;
+    padding: 1px;
+    height: 76px;
+
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    
+    
+}
+
+.nav-items{
+    text-decoration: none;
+    color: #ffff;
+}
+
+
+
+#skills{
+    /* background-color: antiquewhite; */
+    padding: 5px;
+}
+
+
+
+/* Projects section */
+
+.projects{
+    background-color: #c5f4b1;
+    height: 219px;
+    margin: 100px 0px 0px 0;
+    padding: 10px;
+}
+
+
